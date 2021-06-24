@@ -11,3 +11,6 @@ Hash algorithms:
 
 
 We are going to provide a simple interface for implementation of every hashing algorithms.
+
+### YouTube link
+[https://youtu.be/mWpgVhvPWXI](https://youtu.be/mWpgVhvPWXI)
